@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\CodePC\\source\\repos\\FaceDocVerifyClient\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B870EEC9-BE41-49CF-AB1F-53C46C21BE5F}|FaceDocVerifyClient\\FaceDocVerifyClient.csproj|c:\\users\\codepc\\source\\repos\\facedocverifyclient\\facedocverifyclient\\vista\\frmvalidacionidentidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B870EEC9-BE41-49CF-AB1F-53C46C21BE5F}|FaceDocVerifyClient\\FaceDocVerifyClient.csproj|solutionrelative:facedocverifyclient\\vista\\frmvalidacionidentidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B870EEC9-BE41-49CF-AB1F-53C46C21BE5F}|FaceDocVerifyClient\\FaceDocVerifyClient.csproj|C:\\Users\\CodePC\\source\\repos\\FaceDocVerifyClient\\facedocverifyclient\\vista\\frmvalidacionidentidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B870EEC9-BE41-49CF-AB1F-53C46C21BE5F}|FaceDocVerifyClient\\FaceDocVerifyClient.csproj|solutionrelative:facedocverifyclient\\vista\\frmvalidacionidentidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|FaceDocVerifyClient||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B870EEC9-BE41-49CF-AB1F-53C46C21BE5F}|FaceDocVerifyClient\\FaceDocVerifyClient.csproj|C:\\Users\\CodePC\\source\\repos\\FaceDocVerifyClient\\facedocverifyclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B870EEC9-BE41-49CF-AB1F-53C46C21BE5F}|FaceDocVerifyClient\\FaceDocVerifyClient.csproj|solutionrelative:facedocverifyclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B870EEC9-BE41-49CF-AB1F-53C46C21BE5F}|FaceDocVerifyClient\\FaceDocVerifyClient.csproj|C:\\Users\\CodePC\\source\\repos\\FaceDocVerifyClient\\facedocverifyclient\\modelo\\loginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B870EEC9-BE41-49CF-AB1F-53C46C21BE5F}|FaceDocVerifyClient\\FaceDocVerifyClient.csproj|solutionrelative:facedocverifyclient\\modelo\\loginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B870EEC9-BE41-49CF-AB1F-53C46C21BE5F}|FaceDocVerifyClient\\FaceDocVerifyClient.csproj|C:\\Users\\CodePC\\source\\repos\\FaceDocVerifyClient\\facedocverifyclient\\modelo\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B870EEC9-BE41-49CF-AB1F-53C46C21BE5F}|FaceDocVerifyClient\\FaceDocVerifyClient.csproj|solutionrelative:facedocverifyclient\\modelo\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B870EEC9-BE41-49CF-AB1F-53C46C21BE5F}|FaceDocVerifyClient\\FaceDocVerifyClient.csproj|C:\\Users\\CodePC\\source\\repos\\FaceDocVerifyClient\\facedocverifyclient\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B870EEC9-BE41-49CF-AB1F-53C46C21BE5F}|FaceDocVerifyClient\\FaceDocVerifyClient.csproj|solutionrelative:facedocverifyclient\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmValidacionIdentidad.cs",
+              "DocumentMoniker": "C:\\Users\\CodePC\\source\\repos\\FaceDocVerifyClient\\FaceDocVerifyClient\\Vista\\FrmValidacionIdentidad.cs",
+              "RelativeDocumentMoniker": "FaceDocVerifyClient\\Vista\\FrmValidacionIdentidad.cs",
+              "ToolTip": "C:\\Users\\CodePC\\source\\repos\\FaceDocVerifyClient\\FaceDocVerifyClient\\Vista\\FrmValidacionIdentidad.cs",
+              "RelativeToolTip": "FaceDocVerifyClient\\Vista\\FrmValidacionIdentidad.cs",
+              "ViewState": "AgIAAMkAAAAAAAAAAAASwNsAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-20T20:27:08.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FaceDocVerifyClient",
+              "DocumentMoniker": "C:\\Users\\CodePC\\source\\repos\\FaceDocVerifyClient\\FaceDocVerifyClient\\FaceDocVerifyClient.csproj",
+              "RelativeDocumentMoniker": "FaceDocVerifyClient\\FaceDocVerifyClient.csproj",
+              "ToolTip": "C:\\Users\\CodePC\\source\\repos\\FaceDocVerifyClient\\FaceDocVerifyClient\\FaceDocVerifyClient.csproj",
+              "RelativeToolTip": "FaceDocVerifyClient\\FaceDocVerifyClient.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-06-20T21:23:50.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "C:\\Users\\CodePC\\source\\repos\\FaceDocVerifyClient\\FaceDocVerifyClient\\Modelo\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "FaceDocVerifyClient\\Modelo\\LoginRequest.cs",
+              "ToolTip": "C:\\Users\\CodePC\\source\\repos\\FaceDocVerifyClient\\FaceDocVerifyClient\\Modelo\\LoginRequest.cs",
+              "RelativeToolTip": "FaceDocVerifyClient\\Modelo\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-20T21:11:11.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmValidacionIdentidad.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\CodePC\\source\\repos\\FaceDocVerifyClient\\FaceDocVerifyClient\\Vista\\FrmValidacionIdentidad.cs",
+              "RelativeDocumentMoniker": "FaceDocVerifyClient\\Vista\\FrmValidacionIdentidad.cs",
+              "ToolTip": "C:\\Users\\CodePC\\source\\repos\\FaceDocVerifyClient\\FaceDocVerifyClient\\Vista\\FrmValidacionIdentidad.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FaceDocVerifyClient\\Vista\\FrmValidacionIdentidad.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-20T19:56:12.416Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\CodePC\\source\\repos\\FaceDocVerifyClient\\FaceDocVerifyClient\\Program.cs",
+              "RelativeDocumentMoniker": "FaceDocVerifyClient\\Program.cs",
+              "ToolTip": "C:\\Users\\CodePC\\source\\repos\\FaceDocVerifyClient\\FaceDocVerifyClient\\Program.cs",
+              "RelativeToolTip": "FaceDocVerifyClient\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-20T20:27:21.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginResponse.cs",
+              "DocumentMoniker": "C:\\Users\\CodePC\\source\\repos\\FaceDocVerifyClient\\FaceDocVerifyClient\\Modelo\\LoginResponse.cs",
+              "RelativeDocumentMoniker": "FaceDocVerifyClient\\Modelo\\LoginResponse.cs",
+              "ToolTip": "C:\\Users\\CodePC\\source\\repos\\FaceDocVerifyClient\\FaceDocVerifyClient\\Modelo\\LoginResponse.cs",
+              "RelativeToolTip": "FaceDocVerifyClient\\Modelo\\LoginResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-20T21:11:46.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\CodePC\\source\\repos\\FaceDocVerifyClient\\FaceDocVerifyClient\\Form1.cs",
+              "RelativeDocumentMoniker": "FaceDocVerifyClient\\Form1.cs",
+              "ToolTip": "C:\\Users\\CodePC\\source\\repos\\FaceDocVerifyClient\\FaceDocVerifyClient\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FaceDocVerifyClient\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-20T19:50:56.749Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
