@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mxfile host="app.diagrams.net">
+  <diagram name="Página-1" id="uWLD-Viqp3i7bbywyp5O">
+    <mxGraphModel dx="1094" dy="603" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="client" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Cliente / Aplicación Consumidora" vertex="1">
+          <mxGeometry height="60" width="250" x="400" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="api" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="API REST Segura&#xa;FastAPI + JWT" vertex="1">
+          <mxGeometry height="80" width="250" x="400" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="validationfiles" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Validación de Archivos&#xa;MIME + Extensión + Tamaño" vertex="1">
+          <mxGeometry height="80" width="250" x="400" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="ocr" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="OCR Service&#xa;Tesseract + EasyOCR" vertex="1">
+          <mxGeometry height="80" width="250" x="120" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="face" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Face Match Service&#xa;DeepFace + OpenCV" vertex="1">
+          <mxGeometry height="80" width="250" x="680" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="business" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Validation Service&#xa;Edad + Vigencia DNI" vertex="1">
+          <mxGeometry height="80" width="250" x="400" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="audit" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Audit Service&#xa;Request ID + Logs" vertex="1">
+          <mxGeometry height="80" width="250" x="400" y="650" as="geometry" />
+        </mxCell>
+        <mxCell id="db" parent="1" style="shape=cylinder;whiteSpace=wrap;html=1;" value="SQLite" vertex="1">
+          <mxGeometry height="80" width="120" x="760" y="650" as="geometry" />
+        </mxCell>
+        <mxCell id="response" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="JSON Response" vertex="1">
+          <mxGeometry height="60" width="250" x="400" y="780" as="geometry" />
+        </mxCell>
+        <mxCell id="e1" edge="1" parent="1" source="client" target="api">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e2" edge="1" parent="1" source="api" target="validationfiles">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e3" edge="1" parent="1" source="validationfiles" target="ocr">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e4" edge="1" parent="1" source="validationfiles" target="face">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e5" edge="1" parent="1" source="ocr" target="business">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e6" edge="1" parent="1" source="face" target="business">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e7" edge="1" parent="1" source="business" target="audit">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e8" edge="1" parent="1" source="audit" target="db">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e9" edge="1" parent="1" source="audit" target="response">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
